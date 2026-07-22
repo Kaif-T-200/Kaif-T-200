@@ -502,24 +502,34 @@ targets:
 <h2 id="connect">Connect</h2>
 
 <div align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kaif-tarasgar-0b5425326/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <form action="https://www.linkedin.com/in/kaif-tarasgar-0b5425326/" method="GET" target="_blank" style="display:inline">
+    <button type="submit" style="border:none;background:none;cursor:pointer;padding:0">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </button>
+  </form>
   <a href="mailto:kaiftarasgar2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://kaif-t-200.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio">
-    <img src="https://img.shields.io/badge/Career%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://x.com/Kaif_T_200">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@Kaif-T-200">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  <form action="https://kaif-t-200.github.io/Portfolio/" method="GET" target="_blank" style="display:inline">
+    <button type="submit" style="border:none;background:none;cursor:pointer;padding:0">
+      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+    </button>
+  </form>
+  <form action="https://github.com/Kaif-T-200/career-portfolio" method="GET" target="_blank" style="display:inline">
+    <button type="submit" style="border:none;background:none;cursor:pointer;padding:0">
+      <img src="https://img.shields.io/badge/Career%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    </button>
+  </form>
+  <form action="https://x.com/Kaif_T_200" method="GET" target="_blank" style="display:inline">
+    <button type="submit" style="border:none;background:none;cursor:pointer;padding:0">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </button>
+  </form>
+  <form action="https://medium.com/@Kaif-T-200" method="GET" target="_blank" style="display:inline">
+    <button type="submit" style="border:none;background:none;cursor:pointer;padding:0">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </button>
+  </form>
 </div>
 
 <br />
