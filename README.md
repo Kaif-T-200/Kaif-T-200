@@ -445,7 +445,7 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 <td><b>Operating Systems</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=dark" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-2E8B57?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-2E8B57?style=flat-square&logoColor=white" />
 </td>
 </tr>
 </table>
