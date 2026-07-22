@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,70:7C3AED,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:1E1B4B&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
-    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,70:7C3AED,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:8B5CF6,100:7C3AED&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:8B5CF6,100:7C3AED&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
   </picture>
 </div>
 
@@ -15,22 +15,22 @@
 <br />
 
 <div align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About-1E293B?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About-4C1D95?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square" /></a>
-  <a href="#experience"><img src="https://img.shields.io/badge/Experience-4C1D95?style=flat-square" /></a>
-  <a href="#certifications"><img src="https://img.shields.io/badge/Certifications-312E81?style=flat-square" /></a>
-  <a href="#achievements"><img src="https://img.shields.io/badge/Achievements-7C3AED?style=flat-square" /></a>
-  <a href="#badges"><img src="https://img.shields.io/badge/Badges-4C1D95?style=flat-square" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-312E81?style=flat-square" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-1E293B?style=flat-square" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-8B5CF6?style=flat-square" /></a>
+  <a href="#certifications"><img src="https://img.shields.io/badge/Certifications-7C3AED?style=flat-square" /></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Achievements-8B5CF6?style=flat-square" /></a>
+  <a href="#badges"><img src="https://img.shields.io/badge/Badges-7C3AED?style=flat-square" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-8B5CF6?style=flat-square" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-4C1D95?style=flat-square" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Degree-BSc%20Cyber%20Security%20%26%20Forensics-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/University-Pimpri%20Chinchwad%20University-4C1D95?style=flat-square&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Degree-BSc%20Cyber%20Security%20%26%20Forensics-8B5CF6?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-Pimpri%20Chinchwad%20University-7C3AED?style=flat-square&logo=university&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Kaif-T-200&label=Profile%20Views&color=7C3AED&style=flat-square" />
 </div>
 
@@ -38,27 +38,47 @@
 
 ---
 
-<h2 id="about">About</h2>
+<h2 id="about">About Me</h2>
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
-Penetration tester and cybersecurity student focused on offensive security, vulnerability research, and security tooling. I find vulnerabilities in web applications, network infrastructure, and cloud configurations — then build tools to automate detection and analysis.
-
-CEH v12 certified with 7 internship experiences across web pentesting, red team operations, SOC analysis, and network security. Active bug bounty researcher with multiple responsible disclosures. CTF winner and technical lead for CREST CTF 2026.
-
-Currently pursuing advanced web exploitation, cloud security architecture, and AI-assisted threat detection.
+```yaml
+name: Kaif Tarasgar
+role: Cybersecurity Professional
+location: India
+mission: >
+  I break things to make them stronger.
+  Security researcher focused on
+  penetration testing, vulnerability
+  research, and defensive security.
+currently:
+  - CEH v12 certified
+  - Active bug bounty hunter
+  - Building detection logic
+  - Studying advanced pentest
+certifications:
+  - Google Cybersecurity
+  - CompTIA Security+
+  - CompTIA PenTest+
+  - CEH v12
+  - Cisco Ethical Hacker
+  - Fortinet Certified Associate
+  - OWASP Top 10 2025
+  - AWS Cloud Practitioner
+```
 
 </td>
-<td width="35%" align="center">
+<td width="40%">
 
-**Open To**  
-<br />
-<img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=for-the-badge" /><br/>
-<img src="https://img.shields.io/badge/Security%20Engineering-4C1D95?style=for-the-badge" /><br/>
-<img src="https://img.shields.io/badge/SOC%20Analysis-312E81?style=for-the-badge" /><br/>
-<img src="https://img.shields.io/badge/Bug%20Bounty-1E293B?style=for-the-badge" />
+**Career Objective**
+
+> To protect critical infrastructure and data by applying advanced penetration testing, threat intelligence, and security operations skills. Passionate about finding vulnerabilities before adversaries do, and building security tools that make the digital world safer.
+
+**Mission Statement**
+
+> *"Security isn't a product — it's a process. Every vulnerability discovered is an opportunity to strengthen the chain."*
 
 </td>
 </tr>
@@ -108,7 +128,7 @@ Simulated banking platform implementing MFA, fraud detection scoring, transactio
 - Security dashboard with transaction audit logs
 - Live demo deployed
 
-<a href="https://github.com/Kaif-T-200/Banking-Security-Platform"><img src="https://img.shields.io/badge/Repository-4C1D95?style=flat-square" /></a>
+<a href="https://github.com/Kaif-T-200/Banking-Security-Platform"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
 <img src="https://img.shields.io/github/stars/Kaif-T-200/Banking-Security-Platform?style=flat-square&color=FFD700" />
 
 </td>
@@ -135,7 +155,7 @@ AI-assisted decoder supporting 68+ encoding operations — from Base64 and hex t
 - Sub-10ms latency with LRU caching
 - JWT inspection and compression analysis
 
-<a href="https://github.com/Kaif-T-200/CipherX"><img src="https://img.shields.io/badge/Repository-312E81?style=flat-square" /></a>
+<a href="https://github.com/Kaif-T-200/CipherX"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=flat-square" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -179,8 +199,8 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 </details>
 
 <p align="right">
-  <a href="https://github.com/Kaif-T-200?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-1E293B?style=flat-square" /></a>
-  <a href="https://github.com/Kaif-T-200/career-portfolio"><img src="https://img.shields.io/badge/Full%20Career%20Portfolio-7C3AED?style=flat-square" /></a>
+  <a href="https://github.com/Kaif-T-200?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-7C3AED?style=flat-square" /></a>
+  <a href="https://github.com/Kaif-T-200/career-portfolio"><img src="https://img.shields.io/badge/Full%20Career%20Portfolio-8B5CF6?style=flat-square" /></a>
 </p>
 
 ---
@@ -240,24 +260,24 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
   <img src="https://img.shields.io/badge/CEH%20v12-Certified%20Ethical%20Hacker-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-5B21B6?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-8B5CF6?style=for-the-badge&logo=comptia&logoColor=white" />
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-4F46E5?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-7C3AED?style=for-the-badge&logo=comptia&logoColor=white" />
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-8B5CF6?style=for-the-badge&logo=google&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Fortinet-FCA-312E81?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-FCA-7C3AED?style=for-the-badge&logo=fortinet&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-312E81?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -265,16 +285,16 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 </tr>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Palo%20Alto-Security%20Ops-4F46E5?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Palo%20Alto-Security%20Ops-7C3AED?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Oracle-Cloud%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/OWASP-Top%2010%202025-5B21B6?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-Top%2010%202025-8B5CF6?style=for-the-badge&logo=owasp&logoColor=white" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/ISC2-CISSP%20AIO-312E81?style=for-the-badge&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISC2-CISSP%20AIO-7C3AED?style=for-the-badge&logo=isc2&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -304,51 +324,42 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 
 ---
 
-<h2 id="achievements">Achievements</h2>
+<h1 id="achievements">Achievements</h1>
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td align="center" width="33%">
 
-### CTF
+### 🏆 CTF Wins
 
-**1st Place — IU Hack2Xploit 3.0**  
-Indira University × Defcon Pune  
-12 hours, 600+ participants
+**1st Rank — Indira CTF**  
+Multiple CTF participations demonstrating real-world security skills.
 
-**Technical Lead — CREST CTF 2026**  
-Web Exploitation & OSINT challenges  
-2,000+ registrants
+<a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/CTF-Wins"><img src="https://img.shields.io/badge/View%20CTF%20Achievements-7C3AED?style=flat-square" /></a>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td align="center" width="33%">
 
-### Bug Bounty
+### 🐛 Bug Bounty
 
-**TMF Group** — IDOR in financial document API  
-**Max Healthcare** — CORS + PII exposure  
-**Sai Life Sciences** — DMARC subdomain spoofing  
-**Perfios** — User enumeration via auth  
-**ELAN Limited** — Bug bounty rewarded
+**6 Valid Reports**  
+TMF Group, Perfios, Sai Life Sciences, Max Healthcare — real vulnerabilities found and reported.
+
+<a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Bug-Bounty"><img src="https://img.shields.io/badge/View%20Bug%20Bounty-8B5CF6?style=flat-square" /></a>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td align="center" width="33%">
 
-### Leadership
+### 🏅 Badges
 
-**CREST Cybersecurity Club**  
-Led offensive security for 100+ members
+**8 Professional Badges**  
+Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 
-**Campus Ambassador**  
-E-Cell IIT Bombay — entrepreneurship at PCU
+<a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Badges"><img src="https://img.shields.io/badge/View%20Badges-7C3AED?style=flat-square" /></a>
 
 </td>
 </tr>
 </table>
-
-<p align="right">
-  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements"><img src="https://img.shields.io/badge/View%20Achievements-7C3AED?style=flat-square" /></a>
-</p>
 
 ---
 
@@ -361,9 +372,9 @@ E-Cell IIT Bombay — entrepreneurship at PCU
 <img src="https://img.shields.io/badge/IBM-Cybersecurity-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-Cloud%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Cryptonic%20Area-CEO%20LoR-7C3AED?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Appreciation-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Awareness-312E81?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Unleashing%20AI%20Agents-1E1B4B?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Appreciation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Awareness-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Unleashing%20AI%20Agents-4C1D95?style=for-the-badge&logo=opencv&logoColor=white" />
 
 </div>
 
@@ -373,7 +384,7 @@ E-Cell IIT Bombay — entrepreneurship at PCU
 
 ---
 
-<h2 id="tech-stack">Tech Stack</h2>
+<h2 id="tech-stack">Technical Skills</h2>
 
 <table>
 <tr>
@@ -381,9 +392,14 @@ E-Cell IIT Bombay — entrepreneurship at PCU
 <th>Technologies</th>
 </tr>
 <tr>
-<td><b>Languages</b></td>
+<td><b>Programming</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash,sql,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -399,11 +415,12 @@ E-Cell IIT Bombay — entrepreneurship at PCU
   <img src="https://img.shields.io/badge/Metasploit-312E81?style=flat-square" />
   <img src="https://img.shields.io/badge/Nmap-4C1D95?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlmap-5B21B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/sqlmap-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Scapy-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-4F46E5?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-7C3AED?style=flat-square&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Nessus-00B4D8?style=flat-square" />
   <img src="https://img.shields.io/badge/FortiGate-ED1B24?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -411,6 +428,17 @@ E-Cell IIT Bombay — entrepreneurship at PCU
 <td>
   <img src="https://skillicons.dev/icons?i=linux,kali,aws,azure,docker,git,github&theme=dark" />
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/FortiGate-ED1B24?style=flat-square&logo=fortinet&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Networking</b></td>
+<td>
+  <img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/VPN-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firewalls-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS-7C3AED?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -418,7 +446,7 @@ E-Cell IIT Bombay — entrepreneurship at PCU
 <td>
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E42313?style=flat-square" />
-  <img src="https://img.shields.io/badge/NIST%20SP%20800--61-003B71?style=flat-square" />
+  <img src="https://img.shields.io/badge/NIST%20SP%20800--61-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/CVSS-7C3AED?style=flat-square" />
 </td>
 </tr>
@@ -462,28 +490,25 @@ targets:
 
 ---
 
-<h2 id="github">GitHub Analytics</h2>
+<h1 id="stats">GitHub Activity</h1>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaif-T-200&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7C3AED&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-T-200&layout=compact&hide_border=true&title_color=7C3AED&text_color=C4B5FD&bg_color=0D1117&langs_count=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaif-T-200&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-T-200&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
 
-<div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Kaif-T-200&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif-T-200&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif-T-200&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaif-T-200&theme=radical&no-frame=true&row=1&column=6" width="48%"/>
+</p>
 
 <br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaif-T-200/Kaif-T-200/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaif-T-200/Kaif-T-200/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kaif-T-200/Kaif-T-200/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="assets/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -493,13 +518,13 @@ targets:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaif-tarasgar/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaiftarasgar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kaif-t-200.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Kaif-T-200/career-portfolio">
     <img src="https://img.shields.io/badge/Career%20Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
@@ -510,16 +535,16 @@ targets:
 
 <div align="center">
   <a href="https://leetcode.com/Kaif-T-200/">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116" />
+    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=flat-square&logo=leetcode&logoColor=FFA116" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/Kaif-T-200">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F172A?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" />
   </a>
   <a href="https://www.hackerrank.com/Kaif-T-200">
-    <img src="https://img.shields.io/badge/HackerRank-1E1B4B?style=flat-square&logo=hackerrank&logoColor=00EA64" />
+    <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=flat-square&logo=hackerrank&logoColor=00EA64" />
   </a>
   <a href="https://www.codechef.com/users/kaif-t-200">
-    <img src="https://img.shields.io/badge/CodeChef-312E81?style=flat-square&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=flat-square&logo=codechef&logoColor=white" />
   </a>
 </div>
 
@@ -531,8 +556,8 @@ targets:
   <i>Engineering secure systems — one vulnerability at a time.</i>
   <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:7C3AED,70:4C1D95,100:1E1B4B&height=100&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:1E1B4B&height=100&section=footer" />
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:7C3AED,70:4C1D95,100:1E1B4B&height=100&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:8B5CF6,70:7C3AED,100:4C1D95&height=100&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:312E81&height=100&section=footer" />
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:8B5CF6,70:7C3AED,100:4C1D95&height=100&section=footer" />
   </picture>
 </div>
