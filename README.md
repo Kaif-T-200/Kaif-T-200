@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:7C3AED,70:8B5CF6,100:6366F1&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,35:7C3AED,70:6366F1,100:3730A3&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:7C3AED,70:8B5CF6,100:6366F1&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
   </picture>
 </div>
 
@@ -539,8 +539,8 @@ targets:
   <i>Engineering secure systems — one vulnerability at a time.</i>
   <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:8B5CF6,70:7C3AED,100:6366F1&height=100&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,35:7C3AED,70:6366F1,100:3730A3&height=100&section=footer" />
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:8B5CF6,70:7C3AED,100:6366F1&height=100&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
   </picture>
 </div>
