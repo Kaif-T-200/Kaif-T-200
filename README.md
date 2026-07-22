@@ -403,11 +403,6 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 </td>
 </tr>
 <tr>
-<td><b>Frameworks</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs&theme=dark" />
-</td>
-</tr>
 <tr>
 <td><b>Security Tools</b></td>
 <td>
@@ -528,23 +523,6 @@ targets:
   </a>
   <a href="https://github.com/Kaif-T-200/career-portfolio">
     <img src="https://img.shields.io/badge/Career%20Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://leetcode.com/Kaif-T-200/">
-    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=flat-square&logo=leetcode&logoColor=FFA116" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/Kaif-T-200">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" />
-  </a>
-  <a href="https://www.hackerrank.com/Kaif-T-200">
-    <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=flat-square&logo=hackerrank&logoColor=00EA64" />
-  </a>
-  <a href="https://www.codechef.com/users/kaif-t-200">
-    <img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=flat-square&logo=codechef&logoColor=white" />
   </a>
 </div>
 
