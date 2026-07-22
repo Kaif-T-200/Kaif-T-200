@@ -403,15 +403,15 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 <td><b>Security Tools</b></td>
 <td>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-312E81?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-4C1D95?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-312E81?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4C1D95?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlmap-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scapy-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLMap-8B5CF6?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-7C3AED?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-7C3AED?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nessus-00B4D8?style=flat-square&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/FortiGate-ED1B24?style=flat-square&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square&logo=hackthebox&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -425,27 +425,27 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 <tr>
 <td><b>Networking</b></td>
 <td>
-  <img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/VPN-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firewalls-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/IDS%2FIPS-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=flat-square&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-8B5CF6?style=flat-square&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN-7C3AED?style=flat-square&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewalls-8B5CF6?style=flat-square&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS-7C3AED?style=flat-square&logo=kalilinux&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Security Frameworks</b></td>
 <td>
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E42313?style=flat-square" />
-  <img src="https://img.shields.io/badge/NIST%20SP%20800--61-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/CVSS-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E42313?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST%20SP%20800--61-8B5CF6?style=flat-square&logo=nist&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVSS-7C3AED?style=flat-square&logo=checkmarx&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Operating Systems</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=dark" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-2E8B57?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+CiAgPGNpcmNsZSBjeD0iNjUiIGN5PSIzNSIgcj0iOCIgZmlsbD0iI2ZmZiIvPgogIDxwYXRoIGQ9Ik0yMCA2MCBDMjAgMzAgNTAgMjUgNjAgMzUgQzU1IDMwIDQwIDM1IDM1IDUwIEMzMCA2NSA0MCA4MCA1NSA4NSBDNTAgODAgNDUgNzAgNTAgNjAgQzU1IDUwIDY1IDQ1IDc1IDUwIEM4NSA1NSA4NSA3MCA3NSA3NSBDNjUgODAgNTUgNzUgNTAgNzAiCiAgICBmaWxsPSIjZmZmIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTIwIDYwIEw4IDcwIEwxNSA3NSBaIiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTU1IDg1IEM2MCA5MCA3MCA5MiA3NSA4OCBMODAgODIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-2E8B57?style=flat-square&logo=parrotsecurity&logoColor=white" />
 </td>
 </tr>
 </table>
