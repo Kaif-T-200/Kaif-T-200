@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:8B5CF6,100:7C3AED&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:8B5CF6,100:7C3AED&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:7C3AED,70:8B5CF6,100:6366F1&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,35:7C3AED,70:6366F1,100:3730A3&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
+    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:7C3AED,70:8B5CF6,100:6366F1&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
   </picture>
 </div>
 
@@ -488,22 +488,21 @@ targets:
 <h1 id="stats">GitHub Activity</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaif-T-200&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-T-200&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaif-T-200&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7C3AED&icon_color=6366F1&text_color=8B5CF6&bg_color=0D1117" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-T-200&layout=compact&hide_border=true&title_color=7C3AED&text_color=8B5CF6&bg_color=0D1117&langs_count=6" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif-T-200&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaif-T-200&theme=radical&no-frame=true&row=1&column=6" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Kaif-T-200&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=7C3AED&dates=6B7280&currStreakNum=F8FAFC&sideNums=F8FAFC" width="86%" />
 </p>
 
 <br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaif-T-200/Kaif-T-200/main/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaif-T-200/Kaif-T-200/main/assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kaif-T-200/Kaif-T-200/main/assets/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -512,17 +511,23 @@ targets:
 <h2 id="connect">Connect</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaif-tarasgar/">
-    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kaif-tarasgar-0b5425326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaiftarasgar2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kaif-t-200.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://kaif-t-200.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Kaif-T-200/career-portfolio">
-    <img src="https://img.shields.io/badge/Career%20Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Career%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/Kaif_T_200">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@Kaif-T-200">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
@@ -534,8 +539,8 @@ targets:
   <i>Engineering secure systems — one vulnerability at a time.</i>
   <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:8B5CF6,70:7C3AED,100:4C1D95&height=100&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:312E81&height=100&section=footer" />
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:8B5CF6,70:7C3AED,100:4C1D95&height=100&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:8B5CF6,70:7C3AED,100:6366F1&height=100&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,35:7C3AED,70:6366F1,100:3730A3&height=100&section=footer" />
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,35:8B5CF6,70:7C3AED,100:6366F1&height=100&section=footer" />
   </picture>
 </div>
