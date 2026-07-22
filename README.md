@@ -445,7 +445,7 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 <td><b>Operating Systems</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=dark" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-2E8B57?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-2E8B57?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+CiAgPGNpcmNsZSBjeD0iNjUiIGN5PSIzNSIgcj0iOCIgZmlsbD0iI2ZmZiIvPgogIDxwYXRoIGQ9Ik0yMCA2MCBDMjAgMzAgNTAgMjUgNjAgMzUgQzU1IDMwIDQwIDM1IDM1IDUwIEMzMCA2NSA0MCA4MCA1NSA4NSBDNTAgODAgNDUgNzAgNTAgNjAgQzU1IDUwIDY1IDQ1IDc1IDUwIEM4NSA1NSA4NSA3MCA3NSA3NSBDNjUgODAgNTUgNzUgNTAgNzAiCiAgICBmaWxsPSIjZmZmIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTIwIDYwIEw4IDcwIEwxNSA3NSBaIiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTU1IDg1IEM2MCA5MCA3MCA5MiA3NSA4OCBMODAgODIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=white" />
 </td>
 </tr>
 </table>
