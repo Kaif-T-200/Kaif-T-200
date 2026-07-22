@@ -487,10 +487,6 @@ targets:
   <img src="https://streak-stats.demolab.com?user=Kaif-T-200&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=7C3AED&dates=6B7280&currStreakNum=F8FAFC&sideNums=F8FAFC" width="86%" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Kaif-T-200" width="72%" />
-</p>
-
 <br />
 
 <div align="center">
