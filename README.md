@@ -1,10 +1,6 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Security%20Researcher&descSize=16&descAlignY=55" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kaif%20Tarasgar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -538,9 +534,7 @@ targets:
 <div align="center">
   <i>Engineering secure systems — one vulnerability at a time.</i>
   <br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
-  </picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" width="100%"/>
+</p>
 </div>
