@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:4C1D95,70:7C3AED,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,70:7C3AED,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:1E1B4B&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=1E293B&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
-    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:4C1D95,70:7C3AED,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
+    <img alt="Kaif Tarasgar" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,70:7C3AED,100:312E81&height=220&section=header&text=Kaif%20Tarasgar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=BSc%20Cyber%20Security%20%26%20Forensics%20%E2%80%A2%20Penetration%20Tester&descSize=16&descAlignY=55" />
   </picture>
 </div>
 
@@ -20,7 +20,8 @@
   <a href="#experience"><img src="https://img.shields.io/badge/Experience-4C1D95?style=flat-square" /></a>
   <a href="#certifications"><img src="https://img.shields.io/badge/Certifications-312E81?style=flat-square" /></a>
   <a href="#achievements"><img src="https://img.shields.io/badge/Achievements-7C3AED?style=flat-square" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-4C1D95?style=flat-square" /></a>
+  <a href="#badges"><img src="https://img.shields.io/badge/Badges-4C1D95?style=flat-square" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-312E81?style=flat-square" /></a>
   <a href="#connect"><img src="https://img.shields.io/badge/Connect-1E293B?style=flat-square" /></a>
 </div>
 
@@ -82,8 +83,8 @@ Transforms raw PCAP files into interactive attack storyboards. Parses TCP/UDP/DN
 
 **Key features:**
 - Multi-protocol PCAP parser with causal event linking
-- Interactive attack graph visualization
-- Threat detection engine (port scan, data exfiltration, C2 patterns)
+- Interactive attack graph visualization (vis.js)
+- Threat detection engine (port scan, data exfiltration, C2)
 - Geolocation intelligence with Folium maps
 - PDF/Word/JSON report generation
 
@@ -186,53 +187,22 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 
 <h2 id="experience">Experience</h2>
 
-<table>
-<tr>
-<th>Position</th>
-<th>Organization</th>
-<th>Duration</th>
-</tr>
-<tr>
-<td>Cyber Security Intern</td>
-<td><b>Hacktify Cyber Security LLP</b></td>
-<td>Apr – Jul 2026</td>
-</tr>
-<tr>
-<td>Fortinet Network Security Associate Intern</td>
-<td><b>EduSkills × AICTE × Fortinet</b></td>
-<td>Apr – Jun 2026</td>
-</tr>
-<tr>
-<td>Cybersecurity Intern (Gen-AI & Cloud Security)</td>
-<td><b>Edunet × VOIS for Tech × AICTE</b></td>
-<td>Mar – Apr 2026</td>
-</tr>
-<tr>
-<td>Cyber Security Intern</td>
-<td><b>CyberWarLab</b></td>
-<td>Mar – Apr 2026</td>
-</tr>
-<tr>
-<td>Cyber Security & Ethical Hacking Intern</td>
-<td><b>Cryptonic Area</b></td>
-<td>Jan – Mar 2026</td>
-</tr>
-<tr>
-<td>Web Exploit Hunting & Bug Bounty Intern</td>
-<td><b>EduSkills Academy × AICTE</b></td>
-<td>Oct – Dec 2025</td>
-</tr>
-<tr>
-<td>Cyber Security Intern – Advanced</td>
-<td><b>ShadowFox</b></td>
-<td>Sep – Oct 2025</td>
-</tr>
-</table>
+| Position | Organization | Duration | Focus |
+|---|---|---|---|
+| Cyber Security Intern | **Hacktify Cyber Security LLP** | Apr – Jul 2026 | Web Pentesting, Bug Bounty |
+| Fortinet Network Security Associate Intern | **EduSkills × AICTE × Fortinet** | Apr – Jun 2026 | FortiGate, VPN, IPS, FortiSIEM |
+| Cybersecurity Intern (Gen-AI & Cloud Security) | **Edunet × VOIS for Tech × AICTE** | Mar – Apr 2026 | AI-SIEM, Zero Trust, Cloud Security |
+| Cyber Security Intern | **CyberWarLab** | Mar – Apr 2026 | Red Teaming, Sliver C2, MITRE ATT&CK |
+| Cyber Security & Ethical Hacking Intern | **Cryptonic Area** | Jan – Mar 2026 | VAPT, Web Security, Detection Logic |
+| Web Exploit Hunting & Bug Bounty Intern | **EduSkills Academy × AICTE** | Oct – Dec 2025 | OWASP Top 10, PoC, Bug Reporting |
+| Cyber Security Intern – Advanced | **ShadowFox** | Sep – Oct 2025 | Network Pentest, Metasploit, Threat Profiling |
 
 <details>
-<summary><strong>Additional Internships</strong></summary>
+<summary><strong>Additional Internships & Job Simulations</strong></summary>
 
 <br />
+
+**Internships**
 
 | Organization | Role | Duration |
 |---|---|---|
@@ -241,10 +211,23 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 | IBM SkillBuddy | AI & Cybersecurity Intern | Jan – Feb 2026 |
 | Vault of Code | Cybersecurity Intern | – |
 
+<br />
+
+**Job Simulations (Forage)**
+
+| Simulation | Platform | Focus |
+|---|---|---|
+| AWS Solutions Architecture | Amazon Web Services | Cloud Architecture & Security |
+| Cyber Security Job Simulation | Deloitte | Cybersecurity Analysis |
+| Cybersecurity Analyst Job Simulation | Tata Group | Detection & Response |
+| Cybersecurity Job Simulation | Telstra | Network Security Operations |
+| Shields Up Cybersecurity | Mastercard | Threat Analysis & Defense |
+| Datacom Cybersecurity | Datacom | Security Operations |
+
 </details>
 
 <p align="right">
-  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Internships"><img src="https://img.shields.io/badge/View%20Internship%20Details-7C3AED?style=flat-square" /></a>
+  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Internships"><img src="https://img.shields.io/badge/Full%20Internship%20Details-7C3AED?style=flat-square" /></a>
 </p>
 
 ---
@@ -296,6 +279,25 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 </tr>
 </table>
 
+<details>
+<summary><strong>View all 39 certification categories</strong></summary>
+
+<br />
+
+| Category | Certifications | Count |
+|---|---|---|
+| **Cybersecurity** | Google Cybersecurity, CompTIA Security+, Palo Alto 6-in-1, Fortinet FCA, Microsoft Cybersecurity Analyst, OWASP Top 10 2025, CISSP AIO | 7 |
+| **Penetration Testing** | CEH v12, CompTIA PenTest+, Cisco Ethical Hacker | 3 |
+| **Cloud** | AWS Cloud Practitioner, Microsoft Azure Security, Oracle Cloud AI Foundations | 3 |
+| **AI Security** | AI-Driven Cybersecurity Automation, GenAI for Pentesting, AI Security Governance | 3 |
+| **Bug Bounty** | TMF Group (x2), Perfios, Sai Life Sciences, Max Healthcare, Android, Linux & Web | 7 |
+| **CTF** | Indira CTF (1st Rank), Secleaf, Zero-Day, Dhurandhar, NSFS, JGRC, Digital CyberHunt, ISEA-ISAP | 8 |
+| **Threat Intelligence** | Foundation Threat Intelligence, OSINT Like a Hacker | 2 |
+| **Linux** | Linux 100 Fundamentals | 1 |
+| **Job Simulations** | AWS, Deloitte, Mastercard, Tata, Telstra, Datacom | 6 |
+
+</details>
+
 <p align="right">
   <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Certifications"><img src="https://img.shields.io/badge/Full%20Certification%20Archive-7C3AED?style=flat-square" /></a>
 </p>
@@ -311,11 +313,11 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 ### CTF
 
 **1st Place — IU Hack2Xploit 3.0**  
-Indira University × Defcon Pune Chapter  
-12-hour competition, 600+ participants
+Indira University × Defcon Pune  
+12 hours, 600+ participants
 
 **Technical Lead — CREST CTF 2026**  
-Designed Web Exploitation & OSINT challenges  
+Web Exploitation & OSINT challenges  
 2,000+ registrants
 
 </td>
@@ -324,10 +326,10 @@ Designed Web Exploitation & OSINT challenges
 ### Bug Bounty
 
 **TMF Group** — IDOR in financial document API  
-**Max Healthcare** — CORS misconfiguration, PII exposure  
+**Max Healthcare** — CORS + PII exposure  
 **Sai Life Sciences** — DMARC subdomain spoofing  
-**Perfios** — User enumeration via auth responses  
-**ELAN Limited** — Bug bounty reward
+**Perfios** — User enumeration via auth  
+**ELAN Limited** — Bug bounty rewarded
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -335,10 +337,10 @@ Designed Web Exploitation & OSINT challenges
 ### Leadership
 
 **CREST Cybersecurity Club**  
-Led offensive security programs for 100+ members
+Led offensive security for 100+ members
 
 **Campus Ambassador**  
-E-Cell IIT Bombay — entrepreneurship ecosystem at PCU
+E-Cell IIT Bombay — entrepreneurship at PCU
 
 </td>
 </tr>
@@ -346,6 +348,27 @@ E-Cell IIT Bombay — entrepreneurship ecosystem at PCU
 
 <p align="right">
   <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements"><img src="https://img.shields.io/badge/View%20Achievements-7C3AED?style=flat-square" /></a>
+</p>
+
+---
+
+<h2 id="badges">Digital Badges</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Cybersecurity-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-Cloud%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptonic%20Area-CEO%20LoR-7C3AED?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Appreciation-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Awareness-312E81?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Unleashing%20AI%20Agents-1E1B4B?style=for-the-badge&logo=opencv&logoColor=white" />
+
+</div>
+
+<p align="right">
+  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Badges"><img src="https://img.shields.io/badge/View%20Badge%20Files-7C3AED?style=flat-square" /></a>
 </p>
 
 ---
@@ -380,13 +403,13 @@ E-Cell IIT Bombay — entrepreneurship ecosystem at PCU
   <img src="https://img.shields.io/badge/Scapy-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-4F46E5?style=flat-square&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Nessus-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/FortiGate-ED1B24?style=flat-square&logo=fortinet&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Cloud & DevOps</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=linux,kali,aws,azure,docker,git,github&theme=dark" />
-  <img src="https://img.shields.io/badge/FortiGate-ED1B24?style=flat-square&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </td>
 </tr>
@@ -407,6 +430,35 @@ E-Cell IIT Bombay — entrepreneurship ecosystem at PCU
 </td>
 </tr>
 </table>
+
+---
+
+<h2>Current Focus</h2>
+
+```yaml
+learning:
+  - Advanced Web Exploitation & Bug Bounty
+  - Cloud Security Architecture (AWS, Azure)
+  - AI-assisted Threat Detection & SIEM
+  - Mobile Application Pentesting
+
+building:
+  - Security automation tools (Python, FastAPI)
+  - Network forensics & analysis platforms
+  - Open-source offensive security utilities
+
+exploring:
+  - Malware Analysis & Reverse Engineering
+  - Exploit Development
+  - Red Team Operations
+  - GRC & Security Compliance
+
+targets:
+  - OSCP (Offensive Security)
+  - PNPT (TCM Security)
+  - AWS Security Specialty
+  - eJPT (eLearnSecurity)
+```
 
 ---
 
@@ -479,8 +531,8 @@ E-Cell IIT Bombay — entrepreneurship ecosystem at PCU
   <i>Engineering secure systems — one vulnerability at a time.</i>
   <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:7C3AED,70:4C1D95,100:0F172A&height=100&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:7C3AED,70:4C1D95,100:1E1B4B&height=100&section=footer" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,35:7C3AED,70:4C1D95,100:1E1B4B&height=100&section=footer" />
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:7C3AED,70:4C1D95,100:0F172A&height=100&section=footer" />
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:7C3AED,70:4C1D95,100:1E1B4B&height=100&section=footer" />
   </picture>
 </div>
