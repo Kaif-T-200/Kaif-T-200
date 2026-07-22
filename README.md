@@ -484,8 +484,7 @@ targets:
 <h1 id="stats">GitHub Activity</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaif-T-200&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7C3AED&icon_color=6366F1&text_color=8B5CF6&bg_color=0D1117" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-T-200&layout=compact&hide_border=true&title_color=7C3AED&text_color=8B5CF6&bg_color=0D1117&langs_count=6" width="38%" />
+  <img src="https://metrics.lecoq.io/Kaif-T-200?template=classic&languages=1&achievements=1&lines=1&base.indepth=false&config.timezone=Asia%2FKolkata&config.display=large" width="72%" />
 </p>
 
 <p align="center">
