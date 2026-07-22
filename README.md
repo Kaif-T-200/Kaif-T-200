@@ -104,7 +104,7 @@ Transforms raw PCAP files into interactive attack storyboards. Parses TCP/UDP/DN
 - Geolocation intelligence with Folium maps
 - PDF/Word/JSON report generation
 
-<a href="https://github.com/Kaif-T-200/PCAP-StoryTeller"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/PCAP-StoryTeller"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
 <img src="https://img.shields.io/github/stars/Kaif-T-200/PCAP-StoryTeller?style=flat-square&color=FFD700" />
 
 </td>
@@ -124,7 +124,7 @@ Simulated banking platform implementing MFA, fraud detection scoring, transactio
 - Security dashboard with transaction audit logs
 - Live demo deployed
 
-<a href="https://github.com/Kaif-T-200/Banking-Security-Platform"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/Banking-Security-Platform"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
 <img src="https://img.shields.io/github/stars/Kaif-T-200/Banking-Security-Platform?style=flat-square&color=FFD700" />
 
 </td>
@@ -151,7 +151,7 @@ AI-assisted decoder supporting 68+ encoding operations — from Base64 and hex t
 - Sub-10ms latency with LRU caching
 - JWT inspection and compression analysis
 
-<a href="https://github.com/Kaif-T-200/CipherX"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/CipherX"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=flat-square" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -171,7 +171,7 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 - Continuous monitoring with alerting
 - JSON/CSV/PDF export
 
-<a href="https://github.com/Kaif-T-200/VOIS-SCANNER"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/VOIS-SCANNER"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square" /></a>
 
 </td>
 </tr>
@@ -195,8 +195,8 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 </details>
 
 <p align="right">
-  <a href="https://github.com/Kaif-T-200?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-7C3AED?style=flat-square" /></a>
-  <a href="https://github.com/Kaif-T-200/career-portfolio"><img src="https://img.shields.io/badge/Full%20Career%20Portfolio-8B5CF6?style=flat-square" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-7C3AED?style=flat-square" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio"><img src="https://img.shields.io/badge/Full%20Career%20Portfolio-8B5CF6?style=flat-square" /></a>
 </p>
 
 ---
@@ -243,7 +243,7 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 </details>
 
 <p align="right">
-  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Internships"><img src="https://img.shields.io/badge/Full%20Internship%20Details-7C3AED?style=flat-square" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Internships"><img src="https://img.shields.io/badge/Full%20Internship%20Details-7C3AED?style=flat-square" /></a>
 </p>
 
 ---
@@ -315,7 +315,7 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 </details>
 
 <p align="right">
-  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Certifications"><img src="https://img.shields.io/badge/Full%20Certification%20Archive-7C3AED?style=flat-square" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Certifications"><img src="https://img.shields.io/badge/Full%20Certification%20Archive-7C3AED?style=flat-square" /></a>
 </p>
 
 ---
@@ -331,7 +331,7 @@ High-performance port scanner with CVE intelligence, async scanning engine, serv
 **1st Rank — Indira CTF**  
 Multiple CTF participations demonstrating real-world security skills.
 
-<a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/CTF-Wins"><img src="https://img.shields.io/badge/View%20CTF%20Achievements-7C3AED?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/CTF-Wins"><img src="https://img.shields.io/badge/View%20CTF%20Achievements-7C3AED?style=flat-square" /></a>
 
 </td>
 <td align="center" width="33%">
@@ -341,7 +341,7 @@ Multiple CTF participations demonstrating real-world security skills.
 **6 Valid Reports**  
 TMF Group, Perfios, Sai Life Sciences, Max Healthcare — real vulnerabilities found and reported.
 
-<a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Bug-Bounty"><img src="https://img.shields.io/badge/View%20Bug%20Bounty-8B5CF6?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Bug-Bounty"><img src="https://img.shields.io/badge/View%20Bug%20Bounty-8B5CF6?style=flat-square" /></a>
 
 </td>
 <td align="center" width="33%">
@@ -351,7 +351,7 @@ TMF Group, Perfios, Sai Life Sciences, Max Healthcare — real vulnerabilities f
 **8 Professional Badges**  
 Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 
-<a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Badges"><img src="https://img.shields.io/badge/View%20Badges-7C3AED?style=flat-square" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Badges"><img src="https://img.shields.io/badge/View%20Badges-7C3AED?style=flat-square" /></a>
 
 </td>
 </tr>
@@ -375,7 +375,7 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 </div>
 
 <p align="right">
-  <a href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Badges"><img src="https://img.shields.io/badge/View%20Badge%20Files-7C3AED?style=flat-square" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio/tree/main/Achievements/Badges"><img src="https://img.shields.io/badge/View%20Badge%20Files-7C3AED?style=flat-square" /></a>
 </p>
 
 ---
@@ -502,22 +502,22 @@ targets:
 <h2 id="connect">Connect</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaif-tarasgar-0b5425326/">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kaif-tarasgar-0b5425326/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaiftarasgar2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kaif-t-200.github.io/Portfolio/">
+  <a target="_blank" rel="noopener noreferrer" href="https://kaif-t-200.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Kaif-T-200/career-portfolio">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kaif-T-200/career-portfolio">
     <img src="https://img.shields.io/badge/Career%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://x.com/Kaif_T_200">
+  <a target="_blank" rel="noopener noreferrer" href="https://x.com/Kaif_T_200">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://medium.com/@Kaif-T-200">
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@Kaif-T-200">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
