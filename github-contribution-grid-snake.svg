@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="828" height="168" viewBox="0 0 828 168">
+  <rect width="828" height="168" fill="#ffffff"/>
+  <text x="414" y="30" font-family="system-ui, sans-serif" font-size="12" fill="#7C3AED" text-anchor="middle" font-weight="600">Contributions in the last year</text>
+  <rect x="20" y="70" width="11" height="11" fill="#7C3AED" rx="2"/>
+  <rect x="35" y="70" width="11" height="11" fill="#6D28D9" rx="2"/>
+  <rect x="50" y="70" width="11" height="11" fill="#4C1D95" rx="2"/>
+  <rect x="20" y="85" width="11" height="11" fill="#5B21B6" rx="2"/>
+  <rect x="35" y="85" width="11" height="11" fill="#7C3AED" rx="2"/>
+  <rect x="50" y="85" width="11" height="11" fill="#8B5CF6" rx="2"/>
+  <text x="414" y="140" font-family="system-ui, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Awaiting GitHub Actions workflow to generate live contribution grid</text>
+</svg>
