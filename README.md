@@ -399,7 +399,6 @@ Cisco, Google, IBM, Oracle, AI certifications — verified skill recognition.
 </td>
 </tr>
 <tr>
-<tr>
 <td><b>Security Tools</b></td>
 <td>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -482,6 +481,12 @@ targets:
 ---
 
 <h1 id="stats">GitHub Activity</h1>
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi — drawn from my GitHub activity" />
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kaif-T-200&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=7C3AED&dates=6B7280&currStreakNum=F8FAFC&sideNums=F8FAFC" width="86%" />
